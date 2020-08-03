@@ -1,0 +1,12 @@
+# -- Stadium Data
+# Stadium
+# Stadium Capacity
+# expanded capacity (standing)
+# Location
+# Playing surface
+# Is Artificial Turf
+# Team
+# Opened
+# Weather
+# Station Roof Type
+# elevation
